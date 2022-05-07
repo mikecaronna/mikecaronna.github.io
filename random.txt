@@ -1,0 +1,77 @@
+Question	Answer
+What is the fringe rate for Algeria?	The fringe rate for Algeria is 72%.
+What is the fringe rate for Argentina?	The fringe rate for Argentina is 30%.
+What is the fringe rate for Australia?	The fringe rate for Australia is 18%.
+What is the fringe rate for Austria?	The fringe rate for Austria is 30%.
+What is the fringe rate for Belarus?	The fringe rate for Belarus is 28%.
+What is the fringe rate for Belgium?	The fringe rate for Belgium is 60%.
+What is the fringe rate for Bosnia and Herzegovina?	The fringe rate for Bosnia and Herzegovina is 29%.
+What is the fringe rate for Brazil?	The fringe rate for Brazil is 47%.
+What is the fringe rate for Canada?	The fringe rate for Canada is 28%.
+What is the fringe rate for Chile?	The fringe rate for Chile is 12%.
+What is the fringe rate for China?	The fringe rate for China is 29%.
+What is the fringe rate for Colombia?	The fringe rate for Colombia is 29%.
+What is the fringe rate for Croatia?	The fringe rate for Croatia is 21%.
+What is the fringe rate for Cuba?	The fringe rate for Cuba is 6%.
+What is the fringe rate for Cyprus?	The fringe rate for Cyprus is 28%.
+What is the fringe rate for Czech Republic?	The fringe rate for Czech Republic is 39%.
+What is the fringe rate for Denmark?	The fringe rate for Denmark is 11%.
+What is the fringe rate for Egypt?	The fringe rate for Egypt is 31%.
+What is the fringe rate for Finland?	The fringe rate for Finland is 16%.
+What is the fringe rate for France?	The fringe rate for France is 43%.
+What is the fringe rate for Georgia?	The fringe rate for Georgia is 28%.
+What is the fringe rate for Germany?	The fringe rate for Germany is 21%.
+What is the fringe rate for Greece?	The fringe rate for Greece is 28%.
+What is the fringe rate for Hong Kong?	The fringe rate for Hong Kong is 13%.
+What is the fringe rate for Hungary?	The fringe rate for Hungary is 39%.
+What is the fringe rate for India?	The fringe rate for India is 11%.
+What is the fringe rate for Indonesia?	The fringe rate for Indonesia is 58%.
+What is the fringe rate for Iraq?	The fringe rate for Iraq is 61%.
+What is the fringe rate for Ireland?	The fringe rate for Ireland is 30%.
+What is the fringe rate for Israel?	The fringe rate for Israel is 39%.
+What is the fringe rate for Italy?	The fringe rate for Italy is 43%.
+What is the fringe rate for Ivory Coast?	The fringe rate for Ivory Coast is 60%.
+What is the fringe rate for Japan?	The fringe rate for Japan is 19%.
+What is the fringe rate for Jordan?	The fringe rate for Jordan is 28%.
+What is the fringe rate for Kazakhstan?	The fringe rate for Kazakhstan is 28%.
+What is the fringe rate for Kenya?	The fringe rate for Kenya is 24%.
+What is the fringe rate for Kuwait?	The fringe rate for Kuwait is 20%.
+What is the fringe rate for Lebanon?	The fringe rate for Lebanon is 25%.
+What is the fringe rate for Malaysia?	The fringe rate for Malaysia is 10%.
+What is the fringe rate for Mexico?	The fringe rate for Mexico is 33%.
+What is the fringe rate for Morocco?	The fringe rate for Morocco is 22%.
+What is the fringe rate for Netherlands?	The fringe rate for Netherlands is 33%.
+What is the fringe rate for New Zealand?	The fringe rate for New Zealand is 9%.
+What is the fringe rate for Nigeria?	The fringe rate for Nigeria is 7%.
+What is the fringe rate for Norway?	The fringe rate for Norway is 30%.
+What is the fringe rate for Pakistan?	The fringe rate for Pakistan is 32%.
+What is the fringe rate for Palestine?	The fringe rate for Palestine is 39%.
+What is the fringe rate for Peru?	The fringe rate for Peru is 11%.
+What is the fringe rate for Philippines?	The fringe rate for Philippines is 11%.
+What is the fringe rate for Poland?	The fringe rate for Poland is 27%.
+What is the fringe rate for Portugal?	The fringe rate for Portugal is 35%.
+What is the fringe rate for Qatar?	The fringe rate for Qatar is 8%.
+What is the fringe rate for Romania?	The fringe rate for Romania is 25%.
+What is the fringe rate for Russia?	The fringe rate for Russia is 28%.
+What is the fringe rate for Saudi Arabia?	The fringe rate for Saudi Arabia is 13%.
+What is the fringe rate for Senegal?	The fringe rate for Senegal is 26%.
+What is the fringe rate for Serbia?	The fringe rate for Serbia is 29%.
+What is the fringe rate for Singapore?	The fringe rate for Singapore is 11%.
+What is the fringe rate for South Africa?	The fringe rate for South Africa is 22%.
+What is the fringe rate for South Korea?	The fringe rate for South Korea is 23%.
+What is the fringe rate for Spain?	The fringe rate for Spain is 33%.
+What is the fringe rate for Sri Lanka?	The fringe rate for Sri Lanka is 6%.
+What is the fringe rate for Sweden?	The fringe rate for Sweden is 59%.
+What is the fringe rate for Switzerland?	The fringe rate for Switzerland is 30%.
+What is the fringe rate for Syria?	The fringe rate for Syria is 24%.
+What is the fringe rate for Taiwan?	The fringe rate for Taiwan is 21%.
+What is the fringe rate for Thailand?	The fringe rate for Thailand is 21%.
+What is the fringe rate for Tunisia?	The fringe rate for Tunisia is 87%.
+What is the fringe rate for Turkey?	The fringe rate for Turkey is 27%.
+What is the fringe rate for Ukraine?	The fringe rate for Ukraine is 19%.
+What is the fringe rate for United Arab Emirates?	The fringe rate for United Arab Emirates is 12%.
+What is the fringe rate for United Kingdom?	The fringe rate for United Kingdom is 30%.
+What is the fringe rate for United States of America?	The fringe rate for United States of America is 20%.
+What is the fringe rate for Venezuela?	The fringe rate for Venezuela is 5%.
+What is the fringe rate for Vietnam?	The fringe rate for Vietnam is 6%.
+What is the fringe rate for Zimbabwe?	The fringe rate for Zimbabwe is 26%.
